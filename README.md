@@ -19,7 +19,6 @@
 - **学历** ：本科
 - **年龄** ：27
 - **性别** ：男
-- **专业** ：自动化
 - **GitHub** ：[matachunyan](https://github.com/matachunyan)
 -  **简书** ：[白斩祭](http://www.jianshu.com/u/dbd7d3dea095)
  
