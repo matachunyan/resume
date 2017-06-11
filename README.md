@@ -49,7 +49,7 @@
 对 Vue.js 有一定的使用经验，了解事件驱动的基本原理。
 
 ## 项目经验
-* [游戏仿站](https://matachunyan.github.io/cangku/zizhi/index)
+
 #### [vue-todolist](https://matachunyan.github.io/vue/page)
 - 用户可以新建一个待办事项
 - 用户可以删除一个待办事项
