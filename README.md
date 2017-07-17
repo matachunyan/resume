@@ -55,7 +55,7 @@
 - 项目心得：第一次使用Vue开发项目，基本了解Vue.js的项目开发方式。
 
 
-####[react-todolist]
+####react-todolist
 
 ####canvas
      
