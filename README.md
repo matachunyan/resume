@@ -51,6 +51,7 @@
 ## 项目经历
 
 #### [vue-todolist](https://matachunyan.github.io/vue-try/page.html)
+[代码地址](https://github.com/matachunyan/vue-try)
 - 简介：实现了账户保存，备忘录添加和移除
 - 技术架构：Vue + webpack +es6 leancloud进行数据存储
 - 项目心得：第一次使用Vue开发项目，基本了解Vue.js的项目开发方式。
